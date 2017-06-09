@@ -1,0 +1,21 @@
+{
+  "intents": [
+    {
+        "intent": "Stop"
+    },
+    {
+        "intent": "AskWord",
+        "slots": [{
+            "name": "Term",
+            "type": "WORD"
+        }]
+    },
+    {
+        "intent": "Example",
+        "slots": [{
+            "name": "Term",
+            "type": "WORD"
+        }]
+    }
+  ]
+}

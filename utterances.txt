@@ -1,0 +1,11 @@
+AskWord define {Term}
+AskWord what does {Term} mean
+
+Example give me an example
+Example give me example
+Example example
+Example give me an example of {Term}
+Example give me example of {Term}
+Example example of {Term}
+
+Stop stop

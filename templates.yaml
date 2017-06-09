@@ -1,0 +1,4 @@
+definition: Most top voted for {{term}}, {{definition}}
+example: Example of {{term}}, {{example}}
+not_found: Term not found
+goodbye: You couldn't take it anymore? Good bye!
